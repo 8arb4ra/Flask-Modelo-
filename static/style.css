@@ -1,6 +1,31 @@
- h1{ 
-    color:aqua
+body{
+   background-color: rgb(2, 25, 44);
+}
 
 
+.cartao{
+    margin: auto;
+    width: 400px;
+    background-color: rgb(55, 144, 221);
+    border: 1px solid gray;
+    border-radius: 10px;
+}
 
- }
+label{
+  width: 100px;
+}
+
+
+input{
+
+   width: 100px;
+   margin-bottom: 15px;
+   
+
+
+}
+
+button{
+   color: rgb(247, 251, 255);
+ background-color: rgb(16, 36, 122);
+}
